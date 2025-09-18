@@ -5,7 +5,7 @@ This case study *analyzes stakeholder management* for Northwind Trading, an eCom
 
 ## 📜Executive Summary
 
-In March 2024, Northwind Trading recorded a 39% decrease in total sales value and a **27% decrease** in the number of transactions compared to February 2024. Customer complaints highlighted issues with the new checkout process, limited payment options, and slow page loading. Through **stakeholder analysis** and **structured problem-solving**, this case study identifies key concerns and **proposes solutions** to improve website performance, customer experience, and stakeholder alignment.
+In March 2024, Northwind Trading recorded a 39% decrease in total sales value and a **27% decrease** in the number of transactions compared to February 2024. Customer complaints highlighted issues with the new checkout process, limited payment options, and slow page loading. Through **stakeholder analysis(Root cause analysis, Stakeholder mapping, RACI Matrix and Role-based analysis)** and **structured problem-solving**, this case study identifies key concerns and **proposes solutions** to improve website performance, customer experience, and stakeholder alignment.
 
 ## 🧾Business Case
 Northwind Trading, a successful eCommerce company for four years, recently faced its first decline in sales alongside negative customer feedback. The downturn followed a website redesign introducing mandatory customer registration during checkout, aimed at supporting marketing’s data collection goals. While no major technical faults were identified, slower page loads and customer dissatisfaction raised concerns. Management decided to **investigate** proactively to prevent further sales decline and reputational risk.
