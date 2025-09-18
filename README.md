@@ -121,5 +121,5 @@ By applying these techniques, we had an opportunity to deepen your understanding
 
 ###### 📂 Included in this repo: 
 1. [Sales Report and Customer Complaints](./Data/Sales-Report-and-costumer-complaint.docx)
-2. [Sales Data and Statistics](./Data/Sales-Data-and-Statistics.xlsx) 
-3. [Case Study](./Case Study.pdf)
+2. [Sales Data and Statistics](./Data/Sales-Data-and-Statistics.xlsx)
+3. [Problem Identification and Stakeholder Management](./Problem-Identification-and-Stakeholder-Management---Workbook.docx)
